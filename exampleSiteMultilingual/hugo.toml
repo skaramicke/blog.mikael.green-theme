@@ -39,7 +39,7 @@ url = "https://gohugo.io/documentation/"
 
 [[params.social]]
 id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+url = "https://github.com/skaramicke/blog.mikael.green-theme"
 
 [languages.en]
 languageName = "English"
